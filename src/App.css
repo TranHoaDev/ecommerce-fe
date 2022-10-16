@@ -1,0 +1,12 @@
+.ant-alert {
+    margin-bottom: 16px;
+}
+
+.ant-rate {
+    font-size: 12px !important;
+}
+
+.ant-card-meta {
+    display: flex;
+    justify-content: center;
+}
