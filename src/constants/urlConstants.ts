@@ -1,4 +1,4 @@
-export const BASE_URL = "https://deloy-perfume-api.herokuapp.com/";
+export const BASE_URL = "https://deloy-perfume-api.herokuapp.com";
 export const API_BASE_URL = BASE_URL + "/api/v1";
 export const WEBSOCKET_URL = BASE_URL + "/websocket";
 
